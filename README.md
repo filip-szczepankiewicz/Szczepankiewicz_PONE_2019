@@ -1,5 +1,5 @@
 # Multi-system_b-tensor_experiment_setup
-This repositor contains the experimental setup used for the manuscript:
+This repository contains the experimental setup used for the manuscript:
 Tensor-valued diffusion encoding for diffusional variance decomposition (DIVIDE): Technical feasibility in clinical MRI systems
 
 By:
