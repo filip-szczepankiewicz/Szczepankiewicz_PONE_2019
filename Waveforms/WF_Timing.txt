@@ -1,0 +1,14 @@
+The following describes the durations, in milliseconds, of each waveform part (d1 and d2), and the separation between the end on the first and beginning of the second part (dp).
+
+                   d1      d2     dp
+System A - STE   48.86   42.43   6.98
+System A - LTE   42.49   42.49   6.98
+
+System B - STE   48.41   42.04   8.02
+System B - LTE   42.20   42.20   8.02
+
+System C - STE   32.31   26.20   8.02
+System C - LTE   26.20   26.20   8.02
+
+System D - STE   35.97   27.45   7.12
+System D - LTE   27.00   27.00  16.09
