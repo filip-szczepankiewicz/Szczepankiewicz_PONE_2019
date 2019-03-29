@@ -14,13 +14,11 @@ Filip Szczepankiewicz1*, Jens Sjölund2,3,4, Freddy Ståhlberg1,5, Jimmy Lätt6,
 7. Lund University, Lund University Bioimaging Center, Lund, Sweden
 
 *Corresponding author
-E-mail: filip.szczepankiewicz@med.lu.se (FSz)
+E-mail: filip.szczepankiewicz@med.lu.se
 
 If you use these resources, please cite:
 
 Szczepankiewicz et al. PLoS ONE, 2019.
-
 https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0214238
-
 https://doi.org/10.1371/journal.pone.0214238
 
