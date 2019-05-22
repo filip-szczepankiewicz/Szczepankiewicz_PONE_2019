@@ -18,9 +18,6 @@ E-mail: filip.szczepankiewicz@med.lu.se
 
 If you use these resources, please cite:
 
-Szczepankiewicz et al. PLoS ONE, 2019.
+Szczepankiewicz F, Sjölund J, Ståhlberg F, Lätt J, Nilsson M. Tensor-valued diffusion encoding for diffusional variance decomposition (DIVIDE): Technical feasibility in clinical MRI systems. PLoS ONE. 2019;14(3):e0214238. https://doi.org/10.1371/journal.pone.0214238
 
 https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0214238
-
-https://doi.org/10.1371/journal.pone.0214238
-
