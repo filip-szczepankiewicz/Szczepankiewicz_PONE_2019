@@ -18,3 +18,11 @@ E-mail: filip.szczepankiewicz@med.lu.se
 Szczepankiewicz F, Sjölund J, Ståhlberg F, Lätt J, Nilsson M. Tensor-valued diffusion encoding for diffusional variance decomposition (DIVIDE): Technical feasibility in clinical MRI systems. PLoS ONE. 2019;14(3):e0214238. https://doi.org/10.1371/journal.pone.0214238
 
 https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0214238
+
+### Related resources
+[YouTube video on the benefit of using tensor-valued diffusion encoding (fat b-tensors)](https://www.youtube.com/watch?v=o4LYijV90Tg&t=1241s)  
+[Multidimensional analysis framework (MD-dMRI)](https://github.com/markus-nilsson/md-dmri)  
+[Gradient waveform optimization for tensor-valued encoding (NOW)](https://github.com/jsjol/NOW)  
+[Concomitant gradient analysis tools (CFA)](https://github.com/markus-nilsson/md-dmri/tree/master/tools/cfa)  
+[Free waveform sequence header extraction tools](https://github.com/filip-szczepankiewicz/fwf_header_tools)  
+[Examples of brain protocols and performance at multiple systems](https://github.com/filip-szczepankiewicz/Szczepankiewicz_PONE_2019)  
