@@ -10,7 +10,7 @@ Filip Szczepankiewicz 1*, Jens Sjölund 2,3,4, Freddy Ståhlberg 1,5, Jimmy Lät
 6. Skåne University Hospital, Department of Imaging and Function, Lund, Sweden
 7. Lund University, Lund University Bioimaging Center, Lund, Sweden
 
-**\*Corresponding author**
+**\*Corresponding author**  
 E-mail: filip.szczepankiewicz@med.lu.se
 
 ### Reference
