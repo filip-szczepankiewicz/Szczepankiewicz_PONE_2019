@@ -14,7 +14,7 @@ Filip Szczepankiewicz 1*, Jens Sjölund 2,3,4, Freddy Ståhlberg 1,5, Jimmy Lät
 E-mail: filip.szczepankiewicz@med.lu.se
 
 ### Reference
-If you use these resources, please cite:
+If you use these resources, please cite:  
 [Szczepankiewicz F, Sjölund J, Ståhlberg F, Lätt J, Nilsson M. Tensor-valued diffusion encoding for diffusional variance decomposition (DIVIDE): Technical feasibility in clinical MRI systems. PLoS ONE. 2019;14(3):e0214238. https://doi.org/10.1371/journal.pone.0214238](https://doi.org/10.1371/journal.pone.0214238)
 
 
