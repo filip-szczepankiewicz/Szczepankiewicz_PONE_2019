@@ -1,6 +1,6 @@
 ## Tensor-valued diffusion encoding for diffusional variance decomposition (DIVIDE): Technical feasibility in clinical MRI systems
 
-Filip Szczepankiewicz 1\*, Jens Sjölund 2,3,4, Freddy Ståhlberg 1,5, Jimmy Lätt 6, Markus Nilsson 5,7
+Filip Szczepankiewicz 1*, Jens Sjölund 2,3,4, Freddy Ståhlberg 1,5, Jimmy Lätt 6, Markus Nilsson 5,7
 
 1. Lund University, Department of Clinical Sciences Lund, Medical Radiation Physics, Lund, Sweden
 2. Elekta Instrument AB, Kungstensgatan 18, Box 7593, SE-103 93, Stockholm, Sweden
@@ -10,7 +10,7 @@ Filip Szczepankiewicz 1\*, Jens Sjölund 2,3,4, Freddy Ståhlberg 1,5, Jimmy Lä
 6. Skåne University Hospital, Department of Imaging and Function, Lund, Sweden
 7. Lund University, Lund University Bioimaging Center, Lund, Sweden
 
-** \*Corresponding author**
+**\*Corresponding author**
 E-mail: filip.szczepankiewicz@med.lu.se
 
 ### Reference
