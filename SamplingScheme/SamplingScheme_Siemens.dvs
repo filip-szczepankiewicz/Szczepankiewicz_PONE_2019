@@ -4,7 +4,7 @@ normalization=none
 
 # Directions for FSz Paper 6, whole brain divide
 # b-vals = [0, .1, .7, 1.4, 2]
-# n-dir  = [1. 6,  6,  12, 16]
+# n-dir  = [1, 6,  6,  12, 16]
 # Values are permuted (dissalowing double repetition of b-max).
 # B = 0 is included for technical reasons, and excluded from analysis.
 
